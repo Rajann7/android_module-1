@@ -1,0 +1,18 @@
+1. Android Architecture
+
+
+Linux Kernel: Handles hardware, memory, and security.
+Android Runtime (ART): Runs apps and provides core Java libraries.
+Libraries: Tools like SQLite for database and OpenGL for graphics.
+Application Framework: Manages app functions like activities and notifications.
+Applications: Apps like Contacts, Dialer, etc.
+Key Components:
+
+
+
+2.  Activities: Screens in an app.
+
+
+Services: Runs tasks in the background.
+Broadcast Receivers: Listens for system changes (e.g., battery).
+Content Providers: Shares app data with other apps.
